@@ -1,7 +1,6 @@
 {
   "name": "webpack-22",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,16 @@
   "license": "ISC",
   "devDependencies": {
     "webpack": "^4.43.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clement101/webpack.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/clement101/webpack/issues"
+  },
+  "homepage": "https://github.com/clement101/webpack#readme",
+  "description": ""
 }
